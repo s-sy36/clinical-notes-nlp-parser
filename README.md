@@ -37,7 +37,6 @@ A Python-based Natural Language Processing (NLP) tool designed for HealthTech an
 ## 🏃 How to Run
 
 1. Clone this repository:
-   `bash
    https://github.com/s-sy36/clinical-notes-nlp-parser.git
    
 Install dependencies:
